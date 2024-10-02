@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: rgb(34, 34, 34);
+    display: flex;
+    justify-content: space-between;
+    padding: 25px;
+    color: #fff;
+}
+
+.logo {
+    font-size: 48px;
+}
+
+.header-right {
+    display: flex;
+}
+
+.links {
+    display: flex;
+    align-items: center;
+}
+
+.links a {
+    text-decoration: none;
+    padding: 18px;
+    color: #fff;
+}
+
+.buttons {
+    display: flex;
+    align-items: center;
+}
+
+.buttons a {
+    text-decoration: none;
+}
+
+.sign-up {
+    padding: 6px;
+}
+
