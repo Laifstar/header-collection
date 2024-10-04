@@ -32,6 +32,8 @@ header {
 
 .action {
     background-color: seagreen;
+    display: flex;
+    justify-content: space-between;
     align-items: center;
     padding: 20px;
 }
